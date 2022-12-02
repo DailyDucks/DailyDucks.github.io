@@ -1,0 +1,32 @@
+body {
+  margin: 20px;
+  background: #000000;
+  color:#FFFFFF;
+  text-align:center;
+}
+          
+.top{
+  text-align:center;
+  font-size:48px;
+  font-style:bold;
+}
+
+.gray-box{
+  background-color:#5A5A5A;
+  font-size:24px;
+  text-align:center;
+}
+
+
+.button {
+  transition-duration: 0.5s;
+  width:250px;
+  height:75px;
+  font-size:24px;
+  text-align:center;
+}
+
+.button:hover {
+  background-color: darkgray; 
+  color: white;
+}
